@@ -17,15 +17,6 @@ used during development, adapted to the paper-level **1M update budget**.
   - 3 training seeds
   - 1,000,000 gradient updates
 
-## 1M schedule
-
-The 300K schedule is scaled proportionally to the 1M budget:
-
-- calibration: 100K--200K updates (10%--20%)
-- auxiliary intervention: 200K--733,333 updates (20%--73.333%)
-- primary-objective-only phase: 733,333--1M updates
-
-The probe bank size and all non-time hyperparameters are unchanged.
 
 ## Evaluation
 
