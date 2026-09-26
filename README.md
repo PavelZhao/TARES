@@ -30,11 +30,3 @@ Evaluation occurs every 250K updates, so the late-window summary uses:
 The final evaluation remains at 1M with the notebook's original final-episode
 setting.
 
-## Notes
-
-The internal development method identifiers are intentionally preserved so the
-1M notebooks remain directly traceable to the original experimental code.
-Only budget-, schedule-, evaluation-, and stale budget-comment settings were
-adapted for 1M use. Notebook outputs were cleared for a clean public release.
-
-Run each notebook with **Run All** on a CUDA-capable machine.
