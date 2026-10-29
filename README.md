@@ -26,6 +26,5 @@ Evaluation occurs every 250K updates, so the late-window summary uses:
 - 750K
 - 1M
 
-The final evaluation remains at 1M with the notebook's original final-episode
-setting.
+The final evaluation is at 1M.
 
