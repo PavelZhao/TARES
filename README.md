@@ -1,7 +1,6 @@
 # TARES 1M Jupyter Experiment Notebooks
 
-This repository contains the **original dual-cell experimental notebooks**
-used during development, adapted to the paper-level **1M update budget**.
+This repository contains the **original dual-cell experimental notebooks** used during development.
 
 ## Notebooks
 
